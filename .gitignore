@@ -1,0 +1,6 @@
+*-backups/
+fp-info-cache
+
+.DS_Store
+*.bak
+
